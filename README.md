@@ -1,4 +1,4 @@
-# skyscrapersim212-x64
+# Skyscrapersim 2.12 Alpha
 This is an altered version of Skyscraper 2.11 Alpha. The software was originally created by Ryan Thoryk as a school project.
 It was created using C++ code language along with the OGRE Graphics Engine.
 The use of this software is to test and simulate elevators and escalators by riding them in a 3D environment.
